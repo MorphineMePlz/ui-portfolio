@@ -202,10 +202,13 @@
   max-width: 500px;
 }
 
-.description__img {
+.styled-line {
   display: block;
   width: 132px;
   height: 5px;
+  background-color: #c4c4c4;
+  background-position: center;
+  background-size: cover;
 }
 
 .description__title {
